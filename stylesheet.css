@@ -1,0 +1,55 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+.tabela {
+    margin-top:210px;
+    background-color:white;
+    border-radius:10px;
+}
+.celula1 {
+    height:200px;
+    width:800px;
+}
+.celula2 {
+    height:300px;
+    width:800px;
+}
+.nome {
+    text-align:center;
+    height:30px;
+    width:500px;
+    font-size:20px;
+    border-radius:10px;
+}
+.nome:hover {
+    background-color:black;
+    color:white;
+    transition:1s;
+}
+.resultado {
+    text-align:center;
+    height:200px;
+    width:800px;
+    font-size:50px;
+    border:none;
+}
+.BotaoResultado {
+    font-size:20px;
+    border-radius:10px;
+    background-color:white;
+    border:2px solid black;
+}
+.BotaoResultado:hover {
+    background-color:black;
+    color:white;
+    transition:1s;
+}
+
+
+
+.TituloPrincipal {
+    font-size:100px;
+}
+.TituloFormulario {
+    font-size:30px;
+}
